@@ -42,6 +42,11 @@ tr {
     user-select: none;
 }
 
+td {
+	vertical-align: sub;
+	text-align: center;
+}
+
 td img {
     vertical-align: middle;
     display: inline-block;
@@ -167,3 +172,4 @@ th.points-hide {
 		}
 
 }
+
